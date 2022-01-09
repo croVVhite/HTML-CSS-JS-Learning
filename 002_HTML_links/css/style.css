@@ -1,0 +1,31 @@
+.objects-links img {
+  width: 150px;
+}
+
+.targets-example {
+  color: white;
+  background-color: #39485f;
+  width: 400px;
+  text-align: center;
+  padding: 5px;
+}
+
+.targets-example a:link,
+.targets-example a:visited {
+  color: white;
+  background-color: #39485f;
+  text-decoration: none;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px 60px;
+  margin: 1px;
+  display: inline-block;
+}
+
+.targets-example a:hover {
+  background-color: #1d2531;
+}
+
+.targets-example a:active {
+  background-color: #637896;
+}
