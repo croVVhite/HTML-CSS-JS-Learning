@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647711338 source:d:\pourtant important\learning\programming\html-css-js-learning\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"ModulesPRR.h"
+
+1647462942 d:\pourtant important\learning\programming\html-css-js-learning\lab08\prj\modulesprr\modulesprr.h
+
